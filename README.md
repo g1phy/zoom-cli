@@ -10,7 +10,7 @@ Fill users.txt
 
 Start:
 ```bash
-npx zoom-multi --url "https://us05web.zoom.us/j/4202323536?pwd=bCJe49MRlNGg4NMgRBbJgaMN4KrIsp.1" --browser=chromium --concurrency=5 --headless --keep-open
+npx zoom-multi --url "https://us05web.zoom.us/j/123321123" --browser=chromium
 ```
 #xmD0Y7
 
